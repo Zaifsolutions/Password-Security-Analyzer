@@ -17,22 +17,40 @@ The system combines **regex validation**, **entropy calculations**, and **visual
 
 ## ✨ Key Features
 
-- 🌀 **Circular Strength Meter**  
-  Real-time visual indicator displaying password entropy and security score.
+ - 🌀 **Circular Strength Meter**  
+Real-time visual feedback showing password strength (0–100%) with entropy-based scoring.
 
-- ⚡ **Advanced Password Generator**  
-  Generates high-entropy 16-character secure passwords instantly.
+- 🧠 **AI Security Advisor**
+Smart suggestions to improve password complexity and eliminate weak patterns.
 
-- 🔍 **Malware Scanner Simulation**  
-  Integrated file-scan simulation designed for security audit demonstrations.
+- ⚡ **Advanced Password Generator**
+Instantly creates high-entropy, 16+ character secure passwords.
+
+-  🔍 **Malware Scanner Simulation**
+Simulated file scanning system for detecting potential threats (demo-focused).
 
 - ⏳ **Crack-Time Estimator**  
-  Estimates how long a password would take to break using brute-force methods.
+Estimates resistance time against brute-force and dictionary attacks.
 
-- 🌓 **Tri-Theme Cyber UI**  
-  - Neon Dark  
-  - Cyber Blue  
-  - Crystal White
+-  **🌓 Multi-Theme Cyber UI**
+**5 modern themes:**
+- Neon Dark,
+- Crystal Light,
+- Neon Cyan,
+- Electric Purple,
+- Ink Red.
+  
+-  **🛡️ Advanced Security Engine**
+Regex + entropy-based analysis for deep password inspection.
+
+-  **⚡ Optimized Performance**
+Fast, lightweight, and smooth user experience across devices.
+
+- **🔍 Smart Detection System**
+Identifies weak patterns, repeated characters, and common vulnerabilities.
+
+- **🚀 Real-World Ready**
+Designed for practical cybersecurity awareness and usage.
 
 ---
 
